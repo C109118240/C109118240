@@ -27,3 +27,17 @@ Strikethrough uses two tildes. ~~Serateh this~~.
 >note 1
 >note 2
 >note 3
+
+---
+
+- [ ] A
+- [ ] B
+- [X] C
+
+---
+
+python code
+```python
+s = "Python syntax highlighting"
+print s
+```
