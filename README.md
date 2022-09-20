@@ -24,8 +24,11 @@ Strikethrough uses two tildes. ~~Serateh this~~.
 >1. Ordered sub-list
 >2. 2nd
 4. And another item.
+
 >note 1
+
 >note 2
+
 >note 3
 
 ---
@@ -40,4 +43,12 @@ python code
 ```python
 s = "Python syntax highlighting"
 print s
+```
+
+---
+
+javascript code
+```js
+var s = "JavaScript syntax highlighting";
+alert(s);
 ```
