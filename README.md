@@ -27,6 +27,8 @@ big
 
 [Yahoo奇摩](https://tw.yahoo.com/)
 
+<https://tw.yahoo.com/>
+
 ---
 
 圖片
