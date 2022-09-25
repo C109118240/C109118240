@@ -30,7 +30,7 @@ big
 
 圖片
 
-
+![nkust](nkust.png "高科大")
 
 影片
 
