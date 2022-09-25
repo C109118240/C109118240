@@ -25,7 +25,7 @@ big
 
 外部超連結
 
-[ Yahoo奇摩 ] (https://tw.yahoo.com/)
+[Yahoo奇摩](https://tw.yahoo.com/)
 
 ---
 
